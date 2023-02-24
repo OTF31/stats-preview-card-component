@@ -4,6 +4,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ---
 
-[See in GitHub Pages](https://denisomarcuyottito.github.io/stats-preview-card-component/)
+[See in GitHub Pages](https://OTF31.github.io/stats-preview-card-component/)
 
 ![image](https://user-images.githubusercontent.com/75378049/160227214-a84dafec-0262-48e9-830a-8baa2b526cb0.png)
